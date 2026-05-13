@@ -1,5 +1,4 @@
 #chat.gmr-chat-host {
-    position: relative;
     scrollbar-width: thin;
     scrollbar-color: color-mix(in srgb, var(--SmartThemeBodyColor, #d8d8d8) 30%, transparent) transparent;
 }

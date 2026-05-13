@@ -5,7 +5,7 @@
     "css": "style.css",
     "author": "IceFog72",
     "version": "0.0.1",
-    "homePage": "",
+    "homePage": "https://github.com/IceFog72/SillyTavern-GPTMessageRail",
     "auto_update": true,
     "minimum_client_version": "1.12.0"
 }

@@ -148,7 +148,7 @@ function createUi() {
             lastFrameTime = time;
             if (dt > 0) {
                 dotsContainer.scrollTop += velocity * dt;
-                velocity *= Math.pow(0.992, dt);
+                velocity *= Math.pow(0.996, dt);
             }
             if (Math.abs(velocity) > 0.05) {
                 momentumID = requestAnimationFrame(loop);
