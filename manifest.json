@@ -1,0 +1,11 @@
+{
+    "display_name": "GPT Message Rail",
+    "loading_order": 100,
+    "js": "index.js",
+    "css": "style.css",
+    "author": "IceFog72",
+    "version": "0.0.1",
+    "homePage": "",
+    "auto_update": true,
+    "minimum_client_version": "1.12.0"
+}
